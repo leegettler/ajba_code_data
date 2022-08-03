@@ -1,0 +1,568 @@
+Sex,SharingUnitID,Head,RelationshipToHH,IndivID,StatusWealth_BaYakaDance,BirthYear,Status_Farmer,Wealth_Farmer,Location,alive,Neighbourhood,GroupID,Status_mensCouncil,Status_womenCouncil,Status_Healer,AbilityToWork,MaritalStatus,YearsofEdu,OtherNoetic_Lingala,OtherNoetic_Dance,Age,age_median,Mother_school,Mother_Lingala,Mother_dance,Father_school,Father_Lingala,Father_dance,Food_security_smaller_meal,Food_security_fewer_meals,Food_security_no_food,Food_security_sleep_hungry,Food_security_whole_day
+F,BYSU011,0,Daughter,BY3020,NA,1978,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Widowed,0.5,Full,0,40.64,40.77,0,Full,owns dance,attended,Full,owns dance,1,1,0,1,0
+F,BYSU011,0,Daughter,BY3022,NA,2008,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,None,0,10.2,10.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU011,1,Focal,BY3023,NA,1961,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,1,48.33,48.49,NA,None,owns dance,attended,Full,owns dance,1,0,0,1,1
+M,BYSU011,0,Son,BY3024,NA,2005,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Intermediate,0,13.26,13.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU011,0,Grandson,BY3025,NA,1999,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,19.65,19.66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU011,1,Husband,BY3027,NA,1961,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,attended,Intermediate,2,43.52,43.66,0,Intermediate,owns dance,0,Full,owns dance,1,1,1,0,1
+M,BYSU011,0,Grandson,BY3028,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,6.96,6.99,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU011,0,Granddaughter,BY3029,NA,2017,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,1.74,1.72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU011,0,Daughter,BY3068,NA,1988,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,6,Full,2,30.35,30.47,0,Full,owns dance,attended,Full,owns dance,1,1,0,0,1
+F,BYSU011,0,Granddaughter,BY3104,NA,2014,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,4.25,4.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU011,0,Grandson,BY3026,NA,2008,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,NA,None,0,10.71,10.76,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU015,1,Cousin,BY2006,NA,1990,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,4,Full,2,28.34,28.53,0,Full,owns dance,attended,Full,owns dance,3,0,0,0,0
+F,BYSU015,1,Focal,BY2044,NA,1982,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Intermediate,0,31.83,31.91,attended,Full,0,attended,Full,owns dance,3,1,0,0,0
+M,BYSU015,0,Cousin,BY2501,NA,2014,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,None,0,4.83,4.81,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU015,0,Son,BY2531,NA,2010,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,None,0,8.8,8.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU015,0,Son,BY2532,NA,2011,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,None,0,7.31,7.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU015,0,Son,BY2577,NA,2001,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,8,17.59,17.61,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU015,0,Mother,BY3011,NA,1963,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Widowed,6,Full,1,44.11,44.25,0,Intermediate,owns dance,0,Full,0,3,0,0,0,0
+F,BYSU015,0,Daughter,BY3012,NA,2017,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,1.83,1.82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU015,0,Cousin,BY2502,NA,2011,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,None,0,7.43,7.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU015,0,Son,BY2563,NA,2004,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,NA,NA,NA,14.89,14.94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU017,0,Son-in-law,BY2022,NA,1981,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Full,5,37.73,37.87,0,Intermediate,owns dance,attended,Full,owns dance,1,0,0,0,0
+F,BYSU017,0,Granddaughter,BY2023,NA,1983,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,attended,Full,2,35.95,36.07,0,Full,owns dance,0,Full,owns dance,0,0,1,1,0
+M,BYSU017,0,Great-grandson,BY2527,NA,2009,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Full,0,9.82,9.84,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU017,0,Great-grandson,BY2575,NA,2014,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,4.67,4.64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU017,0,Granddaughter,BY3030,NA,1994,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,0,Full,0,24.62,24.69,attended,Full,0,0,Intermediate,owns dance,0,3,0,1,0
+F,BYSU017,1,Focal,BY3033,NA,1944,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Widowed,0,Full,2,74.68,74.85,0,Intermediate,owns dance,0,Intermediate,owns dance,0,0,0,1,0
+F,BYSU017,0,Great-granddaughter,BY3036,NA,2005,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,None,0,13.65,13.72,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU017,0,Granddaughter,BY3037,NA,2002,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,2,16.76,16.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU017,0,Great-grandson,BY3038,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,None,Unmarried,0,NA,0,0.73,0.71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU017,0,Grand-nephew,BY3108,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,6.73,6.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU017,0,Granddaughter,BY3035,NA,2010,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,8.17,8.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU017,0,Great-grandson,BY2528,NA,2009,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,NA,NA,0,9.95,9.97,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU017,0,Granddaughter,BY2656,NA,1996,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,NA,NA,NA,22.48,22.52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU019,0,Grandson,BY3039,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,0.83,0.82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU019,0,Son,BY3040,NA,1989,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,7,Full,4,29.76,29.91,NA,NA,NA,NA,NA,NA,0,0,0,0,0
+F,BYSU019,0,Daughter-in-law,BY3041,NA,1995,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,attended,Full,2,23.43,23.48,attended,Full,owns dance,attended,Full,owns dance,0,0,1,0,1
+F,BYSU019,1,Focal,BY3042,NA,1945,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Widowed,0,Full,0,73.81,73.96,0,None,0,0,None,owns dance,0,0,0,0,0
+F,BYSU019,0,Granddaughter,BY3106,NA,2004,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,None,0,14.17,14.24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU019,0,Grandson,BY3107,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Full,0,5.34,5.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU020,1,Husband,BY2024,NA,1979,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,0,39.2,39.33,0,Full,0,0,Full,owns dance,1,0,1,0,0
+F,BYSU020,1,Focal,BY2025,NA,1986,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,1,32.73,32.78,0,Intermediate,owns dance,attended,Full,owns dance,1,1,1,1,1
+M,BYSU020,0,Brother,BY2026,NA,1992,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,5,Full,7,26.09,26.2,NA,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+F,BYSU020,0,Sister-in-law,BY2027,NA,1988,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,6,Full,1,30.06,30.2,attended,Full,owns dance,attended,Full,owns dance,1,0,0,1,0
+M,BYSU020,0,Son,BY2524,NA,2004,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,4,Full,0,14.68,14.78,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU020,0,Son,BY2525,NA,2009,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,None,0,9.69,9.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU020,0,Son,BY2526,NA,2002,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,5,16.55,16.53,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU020,0,Daughter,BY2530,NA,2006,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Intermediate,0,12.62,12.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU020,0,Niece,BY2533,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,0.93,0.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU020,0,Daughter,BY2535,NA,2016,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,2.83,2.82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU020,0,Sister-in-law,BY3083,NA,1973,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,4,Full,2,45.29,45.45,attended,Full,owns dance,attended,Full,owns dance,0,0,0,1,0
+M,BYSU020,0,Brother,BY3084,NA,1973,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,8,45.9,46.06,attended,Full,owns dance,attended,Full,owns dance,1,1,0,0,0
+M,BYSU021,0,Son-in-law,BY2052,NA,1993,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,6,Full,7,25.35,25.42,NA,NA,NA,attended,Full,owns dance,1,1,1,0,0
+F,BYSU021,0,Daughter,BY2053,NA,1995,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,5,Full,0,23.19,23.25,attended,Full,0,attended,Full,owns dance,0,0,0,1,1
+F,BYSU021,0,Granddaughter,BY2556,NA,2017,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,1.03,1.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU021,0,Daughter,BY3044,NA,1997,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,2,21.31,21.34,attended,Full,owns dance,attended,Full,owns dance,1,1,0,0,0
+M,BYSU021,1,Husband,BY3046,NA,1954,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,5,64.95,64.73,0,Full,owns dance,0,Full,owns dance,1,0,0,0,0
+F,BYSU021,1,Focal,BY3047,NA,1970,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,1,48.63,48.78,0,Intermediate,owns dance,attended,Intermediate,owns dance,1,0,1,0,0
+M,BYSU021,0,Grandson,BY3048,NA,2014,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,None,0,4.92,4.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU021,0,Grandson,BY2555,NA,2011,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,7.55,7.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU022,0,Grandson,BY2581,NA,2003,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,0,15.51,15.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU022,0,Daughter,BY2655,NA,1971,NA,NA,Djoube,1,Ngele,BaYaka,0,1,0,Full,Widowed,3,Full,2,47.72,47.89,0,Full,owns dance,attended,Full,owns dance,3,0,0,0,0
+F,BYSU022,0,Daughter,BY3001,NA,1983,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,6,Full,2,35.36,35.46,0,Intermediate,owns dance,0,Full,owns dance,0,3,1,1,0
+F,BYSU022,1,Focal,BY3031,NA,1940,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Widowed,0,Intermediate,2,78.23,78.47,0,Intermediate,owns dance,0,Intermediate,owns dance,1,0,0,1,0
+F,BYSU022,0,Granddaughter,BY3032,NA,1992,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,None,1,26.58,26.72,attended,Full,owns dance,attended,Full,owns dance,1,0,1,1,1
+F,BYSU022,0,Great-granddaughter,BY2669,NA,2015,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,3.06,3.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU023,0,Grandson,BY3055,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,6.03,6.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU023,0,Granddaughter,BY2569,NA,2006,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,12.11,12.16,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU023,1,Focal,BY3049,NA,1958,NA,NA,Djoube,1,Ngele,BaYaka,0,1,0,Full,Widowed,4,Full,2,57.58,57.54,attended,Full,owns dance,attended,Full,owns dance,0,1,0,3,0
+F,BYSU023,0,Daughter,BY3050,NA,1977,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,3,Intermediate,0,41.5,41.61,attended,Full,owns dance,attended,Full,owns dance,0,0,0,1,0
+F,BYSU023,0,Granddaughter,BY3052,NA,2004,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,14.43,14.51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU023,0,Granddaughter,BY3054,NA,2015,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,3.17,3.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU023,0,Granddaughter,BY3053,NA,2011,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,7.08,7.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU023,0,Grandson,BY3140,NA,2017,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,1.93,1.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU023,0,Granddaughter,BY2603,NA,2005,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,13.78,13.85,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU023,0,Daughter,BY2041,NA,1980,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,4,Intermediate,1,38.91,39.04,NA,NA,NA,NA,NA,NA,0,0,0,1,0
+M,BYSU023,0,Grandson,BY2517,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Intermediate,0,5.86,5.86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU023,0,Granddaughter,BY2519,NA,2006,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,NA,NA,0,12.24,12.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU023,0,Granddaughter,BY2518,NA,2006,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,NA,Full,0,12.49,12.54,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU023,0,Daughter,BY2999,NA,1986,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,NA,NA,NA,27.32,27.49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU024,0,Nephew,BY3010,NA,1992,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,7,Full,2,26.82,26.98,NA,Full,owns dance,NA,Full,owns dance,0,0,1,0,0
+F,BYSU024,1,Wife,BY3070,NA,1947,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Married,0,None,1,71.17,71.22,0,None,owns dance,0,None,owns dance,1,0,0,0,0
+M,BYSU024,1,Focal,BY3074,NA,1943,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Married,NA,NA,NA,75.57,75.75,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU025,1,Focal,BY2587,NA,1998,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,1,20.61,20.62,attended,Full,0,attended,Full,owns dance,0,0,0,1,1
+M,BYSU026,1,Focal,BY2020,NA,1976,NA,NA,Djoube,1,Ngele,BaYaka,0,0,1,Full,Married,1,Full,6,42.36,42.49,0,Full,owns dance,attended,Full,owns dance,1,1,1,1,0
+F,BYSU026,1,Wife,BY2021,NA,1977,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,attended,Full,0,41.21,41.32,attended,Full,0,attended,Full,owns dance,0,1,0,0,0
+M,BYSU026,0,Son,BY2520,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Intermediate,0,5.08,5.07,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU026,0,Daughter,BY2522,NA,2001,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,2,17.8,17.82,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU026,0,Son,BY2523,NA,2007,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,4,None,0,11.1,11.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU026,0,Son,BY2534,NA,2017,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,1.64,1.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU026,0,Son,BY2536,NA,2008,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,None,0,10.33,10.36,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU026,0,Son,BY3061,NA,2011,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Unmarried,1,None,0,7.68,7.67,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU027,1,Focal,BY3058,NA,1946,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Widowed,0,None,1,72.04,72.14,attended,Full,owns dance,attended,Full,owns dance,3,0,0,1,0
+F,BYSU027,1,Sister,BY3059,NA,1946,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Widowed,0,None,1,72.92,73.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU027,0,Niece,BY3138,NA,2000,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,4,None,0,18.93,18.96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU028,0,Son-in-law,BY2000,NA,1982,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,6,36.84,36.98,0,Intermediate,0,attended,Full,owns dance,0,0,0,0,0
+F,BYSU028,0,Daughter,BY2001,NA,1985,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Intermediate,2,33.61,33.64,0,Intermediate,owns dance,NA,NA,NA,0,0,0,0,0
+M,BYSU028,0,Grandson,BY2503,NA,2009,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,None,0,9.31,9.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU028,0,Grandson,BY2504,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,5.94,5.95,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU028,0,Grandson,BY2506,NA,2016,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,2.03,2.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU028,0,Brother,BY3003,NA,1977,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,3,Full,0,41.78,41.91,0,None,owns dance,0,Full,0,0,0,0,1,0
+F,BYSU028,1,Focal,BY3014,NA,1966,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,0,Intermediate,1-2 dances,44.7,44.85,0,None,owns dance,attended,Full,owns dance,1,1,0,1,0
+F,BYSU028,0,Daughter,BY3015,NA,2002,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,2,16.97,16.96,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU028,0,Grandson,BY3103,NA,2005,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Intermediate,0,13.52,13.58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU029,0,Daughter-in-law,BY1028,NA,2000,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Full,1,18.21,18.27,attended,Full,owns dance,attended,Full,owns dance,0,0,1,1,0
+M,BYSU029,1,Husband,BY2038,NA,1955,NA,NA,Djoube,1,Ngele,BaYaka,1,0,0,Full,Married,3,Full,0,63.16,62.85,0,Full,0,0,Intermediate,0,1,0,0,0,0
+F,BYSU029,1,Focal,BY2039,NA,1959,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Full,0,50.7,50.46,0,Intermediate,0,0,Full,owns dance,0,1,1,1,1
+M,BYSU029,0,Son,BY2055,NA,1997,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,4,Intermediate,5,21.08,21.1,attended,Full,0,attended,Full,owns dance,0,0,0,1,0
+M,BYSU029,0,Son,BY2513,NA,2006,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,0,13,13.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU030,0,Daughter,BY3072,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Intermediate,0,6.64,6.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU030,0,Daughter,BY3073,NA,2016,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,2.59,2.58,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU030,1,Focal,BY2009,NA,1975,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,0,None,2,43.23,43.36,attended,Full,owns dance,NA,NA,NA,1,0,1,0,0
+M,BYSU030,0,Son,BY3141,NA,1999,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Full,5,19.89,19.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU030,0,Son,BY2507,NA,2007,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,0,11.35,11.39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU030,0,Uncle,BY2612,NA,1970,NA,NA,Djoube,1,Ngele,BaYaka,0,0,1,Full,Divorced,4,Intermediate,6,48.94,49.09,0,None,NA,0,None,owns dance,0,0,0,0,0
+M,BYSU030,0,Son,BY2585,NA,2003,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,NA,NA,NA,15.3,15.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU031,0,Daughter,BY3143,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,0.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU031,0,Daughter,BY2538,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,5.51,5.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU031,1,Husband,BY2030,NA,1979,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,0,39.49,39.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU031,0,Son,BY2539,NA,2010,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,8.55,8.55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU031,0,Son,BY2542,NA,2016,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,2.94,2.94,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU031,1,Focal,BY2031,NA,1987,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Intermediate,2,31.53,31.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU031,0,Mother,BY3142,NA,1948,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Widowed,0,None,0,70.28,70.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU031,0,Son,BY2544,NA,2004,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,NA,NA,NA,14.3,14.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU032,1,Wife,BY2051,NA,NA,NA,NA,Djoube,1,Forest,BaYaka,0,0,0,Full,Married,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU032,0,Daughter,BY2541,NA,NA,NA,NA,Djoube,1,Forest,BaYaka,0,0,0,Full,Unmarried,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU032,0,Son,BY2540,NA,NA,NA,NA,Djoube,1,Forest,BaYaka,0,0,0,Full,Unmarried,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU032,0,Son,BY3144,NA,NA,NA,NA,Djoube,1,Forest,BaYaka,0,0,0,Full,Unmarried,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU032,1,Focal,BY2050,NA,NA,NA,NA,Djoube,1,Forest,BaYaka,0,0,0,Full,Married,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU033,0,Granddaughter,BY1031,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,5.77,5.77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU033,0,Grandson,BY1030,NA,2008,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,None,0,10.08,10.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU033,0,Grandson,BY1032,NA,2000,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,6,18.45,18.51,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU033,0,Grand-niece,BY1035,NA,2002,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,2,16.13,16.12,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU033,1,Focal,BY1115,NA,1956,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Widowed,2,Full,2,62.26,61.89,attended,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+F,BYSU033,0,Daughter,BY1120,NA,1981,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Intermediate,2,37.14,37.28,attended,Full,owns dance,attended,Full,owns dance,1,0,0,1,0
+F,BYSU033,0,Granddaughter,BY3062,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,0.24,0.22,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU033,0,Niece,BY3063,NA,1982,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Married,2,Full,1,36.25,36.38,attended,Full,owns dance,attended,Full,owns dance,1,0,1,1,0
+M,BYSU033,0,Grand-nephew,BY3064,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,6.29,6.31,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU033,0,Son-in-law,BY1119,NA,1991,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,None,0,27.07,27.23,attended,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+F,BYSU034,0,Daughter,BY1016,NA,2006,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,0,12.75,12.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU034,1,Focal,BY1116,NA,1985,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Full,1,33.03,33.07,attended,Full,owns dance,attended,Full,owns dance,0,1,1,1,0
+M,BYSU034,1,Husband,BY1124,NA,1988,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,6,Full,5,30.64,30.76,attended,Full,0,attended,Full,owns dance,3,0,2,3,0
+M,BYSU035,0,Brother,BY1006,NA,2001,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,4,Full,6,17.38,17.39,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU035,0,Brother,BY1007,NA,2005,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,13.39,13.45,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU035,1,Husband,BY1122,NA,1994,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,4,Full,4,24.86,24.93,attended,Full,owns dance,attended,Full,owns dance,0,0,0,1,0
+F,BYSU035,1,Focal,BY1121,NA,1997,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,2,21.77,21.81,NA,NA,NA,NA,NA,NA,0,0,0,0,0
+F,BYSU035,0,Daughter,BY2901,NA,2017,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,1.34,1.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU036,0,Daughter,BY1008,NA,2009,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,9.05,9.06,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU036,1,Focal,BY1103,NA,1964,NA,NA,Djoube,1,Ngele,BaYaka,1,0,0,Full,Married,4,Full,6,49.56,49.71,NA,Full,owns dance,NA,Full,0,1,0,0,0,0
+F,BYSU036,1,Wife,BY1104,NA,1973,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Full,2,42.07,42.2,attended,Full,owns dance,attended,Full,owns dance,1,1,0,0,0
+F,BYSU036,0,Daughter,BY1009,NA,2014,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Full,0,4.75,4.73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU039,1,Focal,BY3065,NA,1953,NA,NA,Djoube,1,Ngele,BaYaka,1,0,1,Moderate,Married,2,Full,6,65.84,65.69,NA,NA,NA,NA,NA,NA,0,0,2,3,0
+F,BYSU039,1,Wife,BY3122,NA,1972,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,6,Full,2,46.8,46.97,attended,Full,owns dance,attended,Full,owns dance,0,1,0,0,0
+M,BYSU039,0,Grandson,BY2571,NA,2016,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,2.32,2.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU039,0,Son,BY2048,NA,1995,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,4,Full,4,23.66,23.71,attended,Full,owns dance,attended,Full,owns dance,1,1,1,0,0
+F,BYSU039,0,Daughter-in-law,BY3145,NA,1994,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,NA,NA,NA,24.38,24.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU040,0,Granddaughter,BY1141,NA,2011,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,7.92,7.92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU040,0,Grandson,BY3000,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Full,0,6.85,6.89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU040,0,Son-in-law,BY3082,NA,1979,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,1,39.78,39.91,0,Full,0,attended,Full,owns dance,0,1,1,1,0
+F,BYSU040,0,Daughter,BY1127,NA,1984,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,2,34.78,34.85,attended,Full,owns dance,attended,Full,owns dance,1,1,0,1,0
+F,BYSU040,1,Focal,BY1111,NA,1952,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Widowed,0,Full,1,66.74,66.62,NA,Full,owns dance,NA,Full,owns dance,0,0,0,1,0
+F,BYSU040,0,Granddaughter,BY1021,NA,2008,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,10.46,10.49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU040,0,Granddaughter,BY1043,NA,2008,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,0,10.97,11.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU040,0,Granddaughter,BY1041,NA,2014,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,None,0,4.58,4.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU040,0,Granddaughter,BY1040,NA,2010,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,8.3,8.29,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU040,0,Granddaughter,BY1039,NA,2007,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,None,0,11.85,11.9,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU040,0,Granddaughter,BY1029,NA,2003,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,0,15.92,15.91,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU040,0,Granddaughter,BY1022,NA,2003,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,0,15.72,15.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU041,0,Son,BY1024,NA,2007,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,NA,NA,0,11.48,11.52,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU041,1,Focal,BY1113,NA,1981,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,6,Full,5,37.43,37.58,0,None,owns dance,attended,Full,owns dance,0,1,1,1,1
+F,BYSU041,1,Wife,BY1114,NA,1980,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,2,38.62,38.75,attended,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+M,BYSU041,0,Son,BY1026,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,6.47,6.5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU041,0,Daughter,BY1038,NA,2004,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,0,14.04,14.11,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU041,0,Son,BY3146,NA,2016,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,2.23,2.24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU042,1,Focal,BY1112,NA,1980,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,1,38.32,38.46,NA,NA,NA,NA,NA,NA,1,0,0,0,0
+F,BYSU042,0,Niece,BY1023,NA,2001,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,2,18,18.05,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU043,1,Focal,BY1106,NA,1963,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,4,Full,0,47.11,47.28,attended,Full,owns dance,attended,Full,owns dance,0,3,0,3,1
+F,BYSU043,0,Daughter,BY1107,NA,1985,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,2,33.32,33.35,attended,Full,owns dance,attended,Full,owns dance,0,1,0,1,0
+M,BYSU043,0,Son-in-law,BY1108,NA,1978,NA,NA,Djoube,1,Ngele,BaYaka,0,0,1,Full,Married,2,Full,5,40.07,40.2,attended,Full,owns dance,attended,Full,owns dance,1,0,0,3,0
+M,BYSU043,0,Grandson,BY1036,NA,2010,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,8.05,8.04,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU043,0,Mother,BY1137,NA,1933,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,None,Widowed,NA,NA,NA,79.11,79.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU044,0,Son,BY1020,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,5.42,5.41,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU044,1,Husband,BY1110,NA,1982,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,0,36.54,36.69,0,Intermediate,0,0,Full,owns dance,0,0,0,1,0
+F,BYSU044,0,Daughter,BY3043,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,0.6,0.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU044,1,Focal,BY1109,NA,1978,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,2,40.36,40.49,NA,NA,NA,NA,NA,NA,3,0,0,1,0
+M,BYSU045,0,Son,BY3148,NA,1998,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,NA,NA,NA,20.37,20.38,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU045,1,Focal,BY2002,NA,1954,NA,NA,Djoube,1,Ngele,BaYaka,1,0,0,Moderate,Married,1,Full,3,64.06,63.8,NA,NA,NA,0,Full,owns dance,0,0,0,0,0
+F,BYSU045,1,Wife,BY2003,NA,1966,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,0,52.99,52.78,attended,Full,0,attended,Full,owns dance,3,1,0,1,0
+F,BYSU045,0,Daughter,BY2033,NA,1989,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,1-2 dances,29.18,29.34,attended,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+M,BYSU045,0,Son-in-law,BY3147,NA,1988,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,4,Full,2,30.94,31.04,attended,Full,owns dance,attended,Full,owns dance,0,1,0,0,1
+F,BYSU045,0,Daughter,BY2046,NA,1993,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,1,25.1,25.18,NA,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+M,BYSU045,0,Grandson,BY2547,NA,2006,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,12.36,12.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU045,0,Grandson,BY2546,NA,2009,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,9.43,9.44,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU045,0,Grandson,BY2548,NA,2014,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,None,0,5,4.98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU045,0,Granddaughter,BY2552,NA,2017,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,1.24,1.26,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU045,0,Son-in-law,BY2045,NA,1986,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,NA,NA,NA,32.12,32.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU046,0,Mother-in-law,BY3123,NA,1955,NA,NA,Djoube,1,Ngele,BaYaka,0,1,0,Full,Married,1,Intermediate,2,59.9,59.79,attended,Full,owns dance,attended,Full,owns dance,0,1,1,3,0
+M,BYSU046,0,Husband of mother-in-law,BY3133,NA,1957,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Intermediate,5,61.08,60.86,attended,Full,owns dance,attended,Full,owns dance,0,0,0,1,0
+F,BYSU046,0,Daughter,BY2557,NA,2000,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,0,18.69,18.73,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU046,0,Daughter,BY2560,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,5.69,5.68,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU046,0,Daughter,BY2561,NA,2015,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,3.28,3.3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU046,0,Daughter,BY2549,NA,2010,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,8.42,8.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU046,1,Focal,BY2007,NA,1984,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,NA,NA,NA,34.49,34.55,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU046,0,Son,BY2559,NA,2009,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,0,9.18,9.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU046,1,Wife,BY2008,NA,1984,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,1,34.2,34.24,0,Full,0,NA,Full,0,3,1,0,1,0
+M,BYSU047,1,Focal,BY3004,NA,1987,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,4,31.23,31.33,0,Full,owns dance,0,None,owns dance,0,0,0,0,0
+F,BYSU047,1,Wife,BY3009,NA,1993,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,0,25.84,25.93,0,Full,0,0,Full,0,1,1,0,2,0
+F,BYSU047,0,Sister-in-law,BY3105,NA,2005,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Intermediate,0,13.91,13.98,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU047,0,Daughter,BY3149,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,0.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU048,1,Daughter,BY2005,NA,1975,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,2,43.82,43.95,NA,Intermediate,owns dance,NA,NA,NA,0,0,1,0,0
+F,BYSU048,1,Focal,BY3090,NA,1941,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Widowed,0,Intermediate,1,77.34,77.57,0,None,owns dance,0,None,owns dance,0,1,0,1,0
+F,BYSU048,0,Granddaughter,BY2562,NA,2007,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,11.73,11.77,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU048,0,Grandson,BY2550,NA,2007,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Intermediate,0,11.22,11.27,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU052,1,Focal,BY2004,NA,1960,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Full,8,58.74,58.69,0,Full,owns dance,attended,Full,owns dance,3,1,0,0,0
+M,BYSU052,0,Son,BY2568,NA,1994,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,0,24.14,24.2,attended,Full,0,attended,Full,owns dance,2,0,0,0,0
+F,BYSU052,0,Daughter-in-law,BY3013,NA,1997,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Intermediate,0,21.54,21.58,NA,Intermediate,0,attended,Full,owns dance,0,0,0,0,0
+M,BYSU052,0,Grandson,BY3016,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,0.36,0.35,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU052,0,Son,BY2551,NA,2003,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,15.09,15.1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU054,0,Son,BY3075,NA,1996,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,0,22.24,22.28,attended,Full,owns dance,attended,Full,owns dance,1,0,0,1,0
+F,BYSU054,1,Focal,BY3076,NA,1973,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Widowed,2,Full,2,35.66,35.76,attended,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+F,BYSU054,0,Daughter,BY3077,NA,2001,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,2,17.17,17.17,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU054,0,Niece,BY3117,NA,1999,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,2,19.17,19.19,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU054,0,Brother-in-law,BY3134,NA,1967,NA,NA,Djoube,1,Ngele,BaYaka,0,0,1,Full,Married,3,Full,2,51.84,51.61,attended,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+F,BYSU054,1,Sister,BY3135,NA,1976,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Full,2,42.65,42.78,attended,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+F,BYSU054,0,Daughter-in-law,BY2521,NA,1996,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,2,22.01,22.04,attended,Full,owns dance,attended,Full,owns dance,1,0,0,1,0
+M,BYSU055,0,Grandson,BY3060,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,6.21,6.23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU055,0,Grandson,BY2565,NA,2009,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,9.56,9.57,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU055,0,Daughter,BY3017,NA,1992,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,NA,NA,NA,26.33,26.46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU055,1,Focal,BY2018,NA,1949,NA,NA,Djoube,1,Ngele,BaYaka,1,0,0,Moderate,Married,1,Full,5,69.41,69.39,0,None,owns dance,0,Full,owns dance,1,1,0,1,0
+F,BYSU055,1,Wife,BY2019,NA,1963,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,2,55.28,55.16,attended,Full,owns dance,attended,Full,owns dance,3,0,0,0,0
+F,BYSU055,0,Daughter,BY2035,NA,1981,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,0,35.07,35.16,attended,Full,0,attended,Full,0,1,0,0,0,0
+F,BYSU055,0,Daughter,BY2047,NA,1993,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,0,Intermediate,0,25.59,25.67,0,Intermediate,0,0,Intermediate,0,0,0,0,0,0
+M,BYSU055,0,Grandson,BY2508,NA,2004,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,3,14.55,14.64,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU055,0,Granddaughter,BY2510,NA,2015,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,None,0,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU055,0,Granddaughter,BY2512,NA,2015,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,3.75,3.71,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU055,0,Grandson,BY2537,NA,1998,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,5,20.13,20.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU055,0,Granddaughter,BY2543,NA,2007,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,None,0,11.98,12.03,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU055,0,Grandson,BY3019,NA,2017,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,1.49,1.49,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU056,1,Focal,BY3005,NA,1972,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,2,Full,1,46.5,46.67,0,Intermediate,owns dance,0,Full,owns dance,1,0,0,0,0
+M,BYSU056,0,Son,BY3006,NA,1989,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,7,Full,7,29.47,29.63,NA,Full,owns dance,attended,Full,owns dance,2,0,0,1,0
+F,BYSU056,0,Daughter-in-law,BY3007,NA,1996,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,1,22.72,22.77,attended,Full,owns dance,attended,Full,owns dance,NA,NA,NA,NA,NA
+M,BYSU056,0,Grandson,BY3008,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,0.48,0.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU057,0,Son,BY1044,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,5.6,5.59,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU057,1,Focal,BY2012,NA,1976,NA,NA,Djoube,1,Ngele,BaYaka,0,0,1,Full,Married,6,Full,5,42.94,43.07,0,Full,owns dance,0,Full,owns dance,1,1,1,1,0
+F,BYSU057,1,Wife,BY2013,NA,1978,NA,NA,Djoube,1,Ngele,BaYaka,0,1,0,Full,Married,0,Full,1,40.92,41.04,attended,Full,owns dance,attended,Full,owns dance,1,3,0,0,0
+F,BYSU057,1,Wife,BY1132,NA,1980,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Intermediate,1,38.03,38.17,attended,Full,owns dance,attended,Full,owns dance,1,1,0,1,1
+F,BYSU057,0,Daughter,BY2515,NA,2016,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,2.46,2.46,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU057,0,Son,BY2567,NA,2011,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,0,7.8,7.8,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU058,0,Son,BY1010,NA,2008,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,1,Full,0,10.59,10.62,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU058,0,Son,BY1011,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,unmarried,0,Full,0,5.25,5.24,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU058,0,Cousin,BY1045,NA,2006,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,0,12.88,12.92,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU058,1,Focal,BY1101,NA,1990,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,8,28.59,28.79,0,Intermediate,owns dance,attended,Intermediate,owns dance,1,0,0,0,0
+F,BYSU058,1,Wife,BY1102,NA,1991,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Full,2,27.57,27.75,attended,Full,owns dance,attended,Full,owns dance,0,0,3,1,1
+M,BYSU058,0,Uncle,BY1123,NA,1964,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,4,54.13,53.96,0,NA,owns dance,0,NA,owns dance,0,0,0,0,1
+F,BYSU058,0,Aunt,BY2010,NA,1972,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,2,Full,0,46.19,46.36,0,Intermediate,owns dance,NA,Full,owns dance,1,0,0,0,0
+M,BYSU058,0,Son,BY2500,NA,2017,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,1.13,1.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU058,0,Mother,BY3002,NA,1964,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,0,Full,1,49.25,49.4,0,None,owns dance,0,Full,NA,0,0,0,1,0
+F,BYSU058,0,Cousin,BY2596,NA,1999,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Full,2,19.41,19.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU059,0,Son,BY2899,NA,1998,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,NA,NA,NA,20.84,20.86,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU059,1,Focal,BY3078,NA,1951,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Widowed,0,Intermediate,2,67.63,67.56,0,Intermediate,0,0,NA,NA,0,0,0,0,0
+F,BYSU059,0,Daughter-in-law,BY3079,NA,1996,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,0,Full,2,22.95,23,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU059,0,Granddaughter,BY3081,NA,2016,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,2.72,2.7,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU060,0,Daughter,BY3085,NA,1990,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,0,Intermediate,2,28.08,28.26,attended,Full,owns dance,NA,Full,owns dance,0,0,1,1,1
+F,BYSU060,1,Focal,BY2617,NA,1968,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Divorced,1,Full,2,45.6,45.76,attended,Full,owns dance,attended,Full,owns dance,0,0,0,0,0
+F,BYSU060,0,Granddaughter,BY3087,NA,2011,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Full,0,7.2,7.21,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU060,0,Grandson,BY3088,NA,2018,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,0.12,0.09,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU060,0,Son,BY3089,NA,1986,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,None,4,32.42,32.49,NA,Intermediate,owns dance,0,Full,owns dance,0,1,0,1,0
+M,BYSU060,0,Grandson,BY2554,NA,2015,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,3.39,3.42,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU061,1,Focal,BY2014,NA,1970,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,2,48.02,48.18,0,None,owns dance,0,None,owns dance,0,1,1,1,0
+F,BYSU061,1,Wife,BY2015,NA,1974,NA,NA,Djoube,1,Ngele,BaYaka,0,1,0,Full,Married,0,Intermediate,2,45,45.15,0,Intermediate,owns dance,0,Full,owns dance,0,1,0,0,0
+F,BYSU061,0,Daughter,BY2576,NA,2002,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,None,0,16.34,16.32,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU062,0,Son,BY3093,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,None,Unmarried,0,NA,0,6.12,6.13,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU062,1,Focal,BY3091,NA,1985,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,3,Full,4,33.9,33.93,attended,None,owns dance,attended,Full,owns dance,0,1,0,0,0
+F,BYSU062,1,Wife,BY3092,NA,1990,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,2,28.88,29.07,0,Full,owns dance,attended,Full,owns dance,0,0,1,0,0
+F,BYSU062,0,Daughter,BY3094,NA,2016,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,2.13,2.14,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU062,0,Daughter,BY2593,NA,2008,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,Full,0,10.84,10.89,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU065,0,Granddaughter,BY3111,NA,2013,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,NA,0,5.17,5.15,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU065,0,Daughter,BY3112,NA,1991,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,NA,NA,NA,NA,NA,27.83,28.01,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU065,1,Husband,BY3139,NA,1962,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,NA,NA,NA,56.43,56.37,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU065,1,Focal,BY3109,NA,1971,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,None,2,47.41,47.59,0,None,owns dance,attended,Full,owns dance,0,0,0,0,0
+F,BYSU065,0,Granddaughter,BY3110,NA,2007,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,3,None,2,11.6,11.65,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU066,1,Focal,BY3121,NA,1942,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Widowed,0,None,1-2 dances,76.45,76.66,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU067,0,Mother,BY3114,NA,1950,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Moderate,Widowed,1,Full,1-2 dances,68.52,68.47,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU067,1,Husband,BY3116,NA,1995,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,1,23.9,23.96,NA,NA,NA,NA,NA,NA,0,0,0,0,0
+F,BYSU067,1,Focal,BY3115,NA,1974,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Married,1,Full,2,44.4,44.56,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU067,0,Son,BY3118,NA,2005,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,None,0,13.13,13.18,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,BYSU067,0,Daughter,BY3119,NA,2010,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,2,Full,0,8.93,8.93,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,BYSU067,0,Son,BY3120,NA,2012,NA,NA,Djoube,1,Ngele,BaYaka,0,0,0,Full,Unmarried,0,Intermediate,0,6.38,6.4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8000,NA,1972,Committee,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8001,NA,1971,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8002,NA,1960,Teacher,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8003,NA,1953,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8004,NA,1972,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8005,NA,1948,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,BY8006,NA,2000,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8007,NA,1973,0,1,Ifondo,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8008,NA,1948,Committee,1,NA,0,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8009,NA,1977,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8010,NA,1791,Committee,1,Mombelo,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8011,NA,1971,Committee,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8012,NA,1983,0,1,Thanry,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8013,NA,1977,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8014,NA,1980,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8015,NA,1971,Teacher,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8016,NA,1977,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8017,NA,1985,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8018,NA,1977,0,1,Dongo,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8019,NA,1984,Committee,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8020,NA,1951,Committee,1,Bangui,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8021,NA,1982,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8023,NA,1938,Committee,0,Pointe Noire,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8024,NA,1987,0,0,Bondongo,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8025,NA,1968,Committee,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8026,NA,1988,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8027,NA,1976,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8028,NA,1971,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8029,NA,NA,Committee,0,NA,0,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8030,NA,1974,Military,1,Ifondo,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8031,NA,1988,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8032,NA,1983,Committee,0,Djoube,1,Main village,Muslim Trader,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8033,NA,1948,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8034,NA,2000,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8035,NA,1974,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8036,NA,1985,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8037,NA,1980,0,1,Djoube,1,Main village,Muslim Trader,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8038,NA,1984,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8039,NA,1966,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8040,NA,1972,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8041,NA,NA,Committee,0,NA,0,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8042,NA,NA,Committee,1,NA,0,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8043,NA,1943,0,1,Pointe Noire,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8044,NA,1949,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8045,NA,NA,Committee,1,NA,0,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8046,NA,1953,Committee,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8047,NA,1971,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8048,NA,1971,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8049,NA,1938,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8050,NA,1951,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8051,NA,1977,Pastor,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8052,NA,1983,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8053,NA,1980,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8054,NA,1988,Teacher,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8055,NA,1979,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8056,NA,1977,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8057,NA,1972,Committee,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8058,NA,1988,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8059,NA,1995,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8060,NA,2007,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8061,NA,1980,0,0,Djoube,1,Main village,Muslim Trader,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8062,NA,1971,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8063,NA,1985,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8064,NA,1987,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8065,NA,1986,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8066,NA,1957,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8067,NA,1971,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8068,NA,1986,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8069,NA,1986,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8070,NA,1987,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8071,NA,1968,Committee,0,Mombelo,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8072,NA,1985,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8073,NA,1968,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8074,NA,1993,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8075,NA,1990,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8076,NA,1993,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8077,NA,1943,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8078,NA,1974,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8079,NA,1970,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8080,NA,1986,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8081,NA,1986,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8082,NA,1996,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8083,NA,1938,Committee,0,Mombelo,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8084,NA,1938,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8085,NA,1938,Committee,0,NA,0,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8086,NA,1938,Committee,0,NA,0,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8087,NA,1980,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8088,NA,1970,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8089,NA,1972,Committee,1,Ifondo,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8090,NA,1974,Military,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8091,NA,NA,Committee,1,NA,0,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8092,NA,1972,Military,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8093,NA,1996,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,BY8094,NA,1949,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8095,NA,1938,Committee,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8096,NA,1993,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8097,NA,1987,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8098,NA,1980,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8099,NA,1993,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8100,NA,1977,0,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8102,NA,1993,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8103,NA,1971,0,1,Ifondo,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8104,owns dance,1970.5,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8105,owns dance,1973,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8106,owns dance,1961.5,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8107,NA,1994,Committee,0,Manfoute,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8108,owns dance,1987,NA,NA,Pokola,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8109,owns dance,1976,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8110,owns dance,1969,NA,NA,Dongo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8111,owns dance,1990,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8112,owns dance,1969,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8113,owns dance,1990,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8114,owns dance,1981,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8115,owns dance,1972,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8116,owns dance,1986,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8117,owns dance,1967,NA,NA,Buse Buse,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8118,owns dance,1976,NA,NA,Ifondo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8119,owns dance,1992,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8121,owns dance,1985,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8122,0,1988,NA,NA,Ifondo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8123,owns dance,1980,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8124,owns dance,1972,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY9074,owns dance,1973,NA,NA,Sendebumu,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8127,owns dance,1973,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8128,owns dance,1973,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8129,owns dance,1993,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8130,owns dance,1999,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8131,owns dance,1991,NA,NA,Ifondo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8132,owns dance,1976,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8133,owns dance,1983,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8134,owns dance,1976,NA,NA,Monjanda,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8135,owns dance,1998,NA,NA,Pokola,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8136,0,1953,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8137,owns dance,1988,NA,NA,Ifondo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8138,0,2001,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8139,owns dance,1997,NA,NA,Brazzaville,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8140,owns dance,1954,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8141,owns dance,1969,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8142,0,2001,NA,NA,Mipoto,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8143,0,2007,NA,NA,Mipoto,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8144,0,2013,NA,NA,Mipoto,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8145,0,2009,NA,NA,Mipoto,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8146,0,1999,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8147,0,1996,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY2693,owns dance,1973,NA,NA,Djoube,1,main village,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8149,owns dance,1958.5,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8150,owns dance,1956,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8151,owns dance,1983,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8152,owns dance,1994,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY9009,owns dance,1975,NA,NA,Mipoto,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8154,owns dance,1969,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8155,owns dance,1955,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8156,0,1971,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8157,owns dance,1989,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8158,owns dance,1999,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8159,0,1977,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8160,0,1949,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8161,0,1977,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8162,owns dance,1939,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8163,owns dance,1963,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8164,owns dance,1983,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8165,owns dance,1964,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8166,0,2016,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8167,owns dance,1964,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8168,owns dance,1970,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8169,owns dance,1990,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8170,owns dance,1971,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8171,owns dance,1947,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8172,owns dance,1961,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8173,owns dance,1969,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8174,owns dance,1995,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8175,owns dance,1954,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8176,owns dance,1945,NA,NA,Mbounginda,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8177,owns dance,1999,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8178,owns dance,1988,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8179,owns dance,1959,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8180,0,2014,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8181,0,2006,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8182,owns dance,1983,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8183,owns dance,1983,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8185,owns dance,2002,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8187,owns dance,1986,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8188,owns dance,1993,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8189,owns dance,1961,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8190,0,1989,NA,NA,Ifondo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8191,owns dance,1973,NA,NA,Ifondo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8192,NA,1978,Logger,1,Thanry,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8193,owns dance,1989,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8194,owns dance,1988,NA,NA,Mbounginda,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8195,owns dance,1999,NA,NA,Mbounginda,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8196,0,1988,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8197,owns dance,1988,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8198,owns dance,1984.5,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8199,owns dance,1991,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8200,0,1994,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8201,0,1976,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8202,0,2013,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8203,owns dance,1981,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8204,owns dance,1967,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8205,owns dance,1978,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8206,owns dance,1970,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8207,owns dance,1963,NA,NA,NA,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8208,owns dance,1988,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY9100,owns dance,1987,NA,NA,NA,0,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8210,owns dance,1974,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8211,owns dance,1969,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8212,owns dance,1988,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8213,owns dance,1991,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8214,owns dance,1997,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8215,owns dance,1954,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8216,owns dance,1993,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8218,0,1993,NA,NA,Pokola,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8219,owns dance,1998,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8220,owns dance,1989,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8221,owns dance,1985,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8222,0,1993,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8223,owns dance,1983,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8224,0,1949,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8225,owns dance,1974,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8226,owns dance,1952,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8227,owns dance,1976,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8228,owns dance,1983,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8229,owns dance,1954,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8230,owns dance,1978,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8231,owns dance,1968,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8232,owns dance,1978,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8233,0,1986,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8234,owns dance,1989,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8235,owns dance,1974,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8236,owns dance,1978,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8237,NA,1964,Committee,1,Mimbele,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8238,NA,1981,0,0,Mimbele,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8239,NA,1971,Committee,1,Mimbele,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8241,0,1995,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8242,owns dance,1978,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8243,0,1995,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8244,0,1953,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8245,owns dance,1963,NA,NA,Thanry,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8246,owns dance,1997,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8247,owns dance,1991,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8248,0,1971,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8249,0,1971,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8251,owns dance,1973,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8253,owns dance,1995,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY9005,owns dance,1969,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8257,owns dance,1997,NA,NA,Mimbele,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8259,owns dance,1956,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8261,owns dance,1985,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8262,owns dance,1985,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY2651,owns dance,1983,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY9084,0,1957,NA,NA,Mipoto,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8263,0,2008,NA,NA,Djoube,1,Golo,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY2028,owns dance,1995,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8282,0,2014,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8264,owns dance,1973,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8265,owns dance,1993,NA,NA,Monjanda,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8266,owns dance,1983,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8267,owns dance,1998,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8268,owns dance,1988,NA,NA,Ifondo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8269,owns dance,1955,NA,NA,Mbounginda,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8270,owns dance,1969,NA,NA,Mbounginda,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8271,0,2004,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,BY8272,owns dance,1969,NA,NA,Monjanda,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8273,owns dance,1983,NA,NA,Manfoute,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8274,NA,1993,NA,NA,NA,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8275,NA,2004,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY2034,owns dance,1978,NA,NA,Ifondo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY2011,owns dance,1983,NA,NA,Mombelo,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8276,owns dance,1987,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8277,owns dance,1953,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8278,owns dance,1954,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8279,owns dance,1968,NA,NA,Minjoukou,1,NA,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8281,NA,1964,0,0,Mimbele,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8280,owns dance,1993,NA,NA,Djoube,1,Forest,BaYaka,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+F,NA,NA,NA,BY8283,NA,1974,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+M,NA,NA,NA,BY8284,NA,1988,0,0,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,BY8285,NA,1966,0,1,Ouesso,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,BY8286,NA,1959,Committee,1,Djoube,1,Main village,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,NA,NA,BY8287,NA,1959,Committee,0,Manfoute,1,NA,Milo,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
